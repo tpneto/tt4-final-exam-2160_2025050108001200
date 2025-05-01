@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "beckend", "beckend\beckend.csproj", "{A9840464-6C40-4457-80F6-87F0A738011C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9840464-6C40-4457-80F6-87F0A738011C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9840464-6C40-4457-80F6-87F0A738011C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9840464-6C40-4457-80F6-87F0A738011C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9840464-6C40-4457-80F6-87F0A738011C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E3843C3-57C5-4349-BA0C-42533B789AC6}
+	EndGlobalSection
+EndGlobal
